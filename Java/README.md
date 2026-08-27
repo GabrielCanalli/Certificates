@@ -2,7 +2,7 @@
 
 # ☕ Hub de Certificados: Java ☕
 
-<img src="https://github.com/GabrielCanalli/Certificates/blob/main/Java/Certificado-Santander%202026%20-%20AI%20Java%20Back-end.pdf"/>  
+<img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/kisspng-java-platform-enterprise-edition-computer-icons-j-5c8290fcd80363.5074467415520606688848-removebg-preview.png"/>  
 
 > *"O segredo para progredir é começar."* — Mark Twain
 
