@@ -212,3 +212,10 @@ Novas linguagens, frameworks, certificações, eventos e áreas de conhecimento 
 ![Objetivo](https://img.shields.io/badge/Objetivo-Aprendizado%20Contínuo-7C4DFF?style=for-the-badge)
 
 **🔄 Última atualização:** Agosto de 2026
+
+
+---
+### 👤 Autor
+**Gabriel Canalli**  
+*Estudante de Análise e Desenvolvimento de Sistemas (4º Período)*
+
